@@ -1,4 +1,8 @@
-background: linear-gradient(90deg, #ff00cc, #3333ff);<h1 align="center">Hey there! 👋 I'm Pratyush</h1>
+<img src="https://your-banner-url.com/banner.gif" alt="Pratyush Banner" style="width:100%; border-radius: 12px;" />
+
+<h2 align="center">👋 Hey there, I'm <span style="color:#ff00cc;">Pratyush</span> 👨‍💻</h2>
+<p align="center">Building next-gen web & AI experiences</p>
+Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
