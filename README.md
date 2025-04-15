@@ -1,5 +1,4 @@
-![Anime Hacker](https://media.giphy.com/media/f9hnhCPZt9PpC/giphy.gif)
-
+![Late Night Coding](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
