@@ -1,5 +1,4 @@
-![Hacker Mode](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
+![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
