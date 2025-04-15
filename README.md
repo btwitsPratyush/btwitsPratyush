@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/f9hnhCPZt9PpC/giphy.gif" width="500"/>
-</p>
+![Anime Hacker](https://media.giphy.com/media/f9hnhCPZt9PpC/giphy.gif)
 
 
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
