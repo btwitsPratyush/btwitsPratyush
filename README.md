@@ -1,5 +1,4 @@
-background: linear-gradient(90deg, #ff00cc, #3333ff);
-<h1 align="center">Hey there! 👋 I'm Pratyush</h1>
+background: linear-gradient(90deg, #ff00cc, #3333ff);<h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
