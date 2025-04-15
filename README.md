@@ -1,4 +1,6 @@
-![Aesthetic Coder](https://media.giphy.com/media/26gslU06mDXHM3sik/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/f9hnhCPZt9PpC/giphy.gif" width="400"/>
+</p>
 
 
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
