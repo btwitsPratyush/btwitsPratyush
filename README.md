@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%94%8E;Tech+Content+Creator+%F0%9F%93%9A;Blog+Writer+%F0%9F%93%9A" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%94%8E;UI%2FUX+Designer+%F0%9F%8E%A8;Blog+Writer+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
   
 </p>
