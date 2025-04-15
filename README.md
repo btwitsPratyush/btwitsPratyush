@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/f9hnhCPZt9PpC/giphy.gif" width="400"/>
-</p>
+
 
 
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
