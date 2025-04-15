@@ -1,4 +1,4 @@
-![Typing Fast](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+background: linear-gradient(90deg, #ff00cc, #3333ff);
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
 
