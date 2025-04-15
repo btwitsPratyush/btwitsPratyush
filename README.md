@@ -1,4 +1,7 @@
- https://giphy.com/gifs/hacking-elliot-mr-robot-xT0xeJpnrWC4XWblEk
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500"/>
+</p>
+
 
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
