@@ -1,4 +1,4 @@
-<img src="https://private-user-images.githubusercontent.com/202098873/423325779-e00f5294-c615-45ef-a1bb-7f6658271c73.gif" width="300"/>
+<img src="https://public-user-images.githubusercontent.com/202098873/423325779-e00f5294-c615-45ef-a1bb-7f6658271c73.gif" width="300"/>
 
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
