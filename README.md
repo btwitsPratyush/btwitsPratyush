@@ -58,5 +58,5 @@ I don’t just debug code. I debug life with ☕, creativity, and passion.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-```
+
 
