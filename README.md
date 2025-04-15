@@ -1,5 +1,7 @@
-![GitHub Octocat Avatar](https://private-user-images.githubusercontent.com/202098873/423325779-e00f5294-c615-45ef-a1bb-7f6658271c73.gif?wt=eyJhbGciOiJIUzI1Ni...)
-Hey there! 👋 I'm Pratyush</h1>
+
+
+
+<h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
@@ -68,14 +70,3 @@ Interactive portfolio to showcase my projects, skills, and goals. Fully responsi
 </p>
 
 ---
-
-🧩 Fun Fact
-
-I don’t just debug code. I debug life with ☕, creativity, and passion.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-
-
