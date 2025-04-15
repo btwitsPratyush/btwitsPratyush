@@ -55,10 +55,10 @@ Interactive portfolio to showcase my projects, skills, and goals. Fully responsi
   <a href="mailto:pratyushk537@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-pratyushk537@gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail">
   </a>
-  <a href="https://github.com/pratyushk537">
+  <a href="https://github.com/btwitsPratyush">
     <img src="https://img.shields.io/badge/GitHub-pratyushk537-333?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://pratyushport.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox-browser" alt="Portfolio">
   </a>
   <a href="https://buymeacoffee.com/btwitspratyush" target="_blank">
