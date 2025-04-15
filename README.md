@@ -1,5 +1,4 @@
-![Dev Coding Pixel Room](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hey there! 👋 I'm Pratyush</h1>
+![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)<h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
