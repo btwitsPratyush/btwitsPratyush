@@ -1,5 +1,4 @@
-<img src="https://public-user-images.githubusercontent.com/202098873/423325779-e00f5294-c615-45ef-a1bb-7f6658271c73.gif" width="300"/>
-
+![Dev Coding Pixel Room](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
 
