@@ -1,4 +1,4 @@
-![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+ https://giphy.com/gifs/hacking-elliot-mr-robot-xT0xeJpnrWC4XWblEk
 
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
