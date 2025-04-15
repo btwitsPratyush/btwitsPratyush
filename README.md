@@ -43,10 +43,18 @@ Interactive portfolio to showcase my projects, skills, and goals. Fully responsi
 
 🌐 Let’s Connect 
 
+### 🌐 Let's Connect
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratyush-kumar1/"><img src="https://img.shields.io/badge/LinkedIn-Pratyush%20Kumar-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/btwitsPratyush"><img src="https://img.shields.io/badge/X-btwitsPratyush-black?style=for-the-badge&logo=twitter"></a>
-  <a href="mailto:pratyushdeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-pratyushdeveloper@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/pratyush-kumar-3302b0229/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pratyush%20Kumar-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://twitter.com/btwitsPratyush">
+    <img src="https://img.shields.io/badge/X-btwitsPratyush-black?style=for-the-badge&logo=twitter">
+  </a>
+  <a href="mailto:pratyushk537@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-pratyushk537@gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
