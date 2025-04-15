@@ -1,4 +1,4 @@
-![Hacker Mode](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Typing Fast](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
 
