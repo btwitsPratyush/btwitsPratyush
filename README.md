@@ -3,10 +3,6 @@
 </p>
 
 
-<p align="center">
-<em>
-
-
 
 
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
