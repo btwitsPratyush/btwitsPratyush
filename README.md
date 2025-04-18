@@ -72,7 +72,7 @@ Interactive portfolio to showcase my projects, skills, and goals. Fully responsi
  🚀 Blog
 
 I love sharing what I learn through writing. 
-   👉 Check out all my articles on [Medium](https://medium.com/@pratyushk537)
+   Check out all my articles on [Medium](https://medium.com/@pratyushk537)
 
 ---
 
