@@ -47,8 +47,6 @@ Interactive portfolio to showcase my projects, skills, and goals. Fully responsi
 
 🌐 Let’s Connect 
 
-### 🌐 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/pratyush-kumar-3302b0229/">
     <img src="https://img.shields.io/badge/LinkedIn-Pratyush%20Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -72,6 +70,13 @@ Interactive portfolio to showcase my projects, skills, and goals. Fully responsi
 
 ---
 
+## 🚀 Blog
+
+I love sharing what I learn through writing. Here are some of my recent posts:
+👉 Check out all my articles on [Medium](https://medium.com/@pratyushk547)
+
+---
+
 🧩 Fun Fact
 
 I don’t just debug code. I debug life with ☕, creativity, and passion.
@@ -79,3 +84,7 @@ I don’t just debug code. I debug life with ☕, creativity, and passion.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+---
+
+
