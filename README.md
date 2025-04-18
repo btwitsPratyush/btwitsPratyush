@@ -18,7 +18,6 @@
 - 🎓 B.Tech @**Gautam Buddha University**
 - 💡 Exploring **AI in Healthcare** — Currently building a **Brain Tumor Detection Web App** using React, Tailwind, and CNN with TensorFlow/Keras.
 - 🧠 Fascinated by **Large Language Models**, **Medical AI**, and building tools that matter.
-- 🌍 Dream: **Build a startup that helps millions**, globally.
 - 🎯 Goal for 2025: Contribute to Open Source + Ship amazing side projects.
 
 ---
@@ -73,7 +72,7 @@ Interactive portfolio to showcase my projects, skills, and goals. Fully responsi
  🚀 Blog
 
 I love sharing what I learn through writing. Here are some of my recent posts:
-👉 Check out all my articles on [Medium](https://medium.com/@Pratyushk547)
+👉 Check out all my articles on [Medium](https://medium.com/@pratyushk537)
 
 ---
 
