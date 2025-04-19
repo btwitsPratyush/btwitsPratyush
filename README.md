@@ -1,3 +1,6 @@
+p align="center">
+  <img src="https://i.imgur.com/N2b8A4u.gif" alt="anime-banner" width="100%" />
+</p>
 
 
 
