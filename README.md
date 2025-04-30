@@ -14,10 +14,11 @@
 
  🚀 About Me
 
-- 🎓 B.Tech @**Gautam Buddha University**
-- 💡 Exploring **AI in Healthcare** — Currently building a **Brain Tumor Detection Web App** using React, Tailwind, and CNN with TensorFlow/Keras.
-- 🧠 Fascinated by **Large Language Models**, **Medical AI**, and building tools that matter.
-- 🎯 Goal for 2025: Contribute to Open Source + Ship amazing side projects.
+- I'm currently pursuing my Bachelor's degree in Information Technology, passionate about developing innovative solutions that merge cutting-edge technology with practical applications.
+
+My journey in tech has led me to explore various domains including web development, artificial intelligence, and cloud computing. I'm particularly interested in AI applications in healthcare, which led to my brain tumor detection project using CNN.
+
+When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and expanding my knowledge through online courses and certifications.
 
 ---
 
