@@ -16,9 +16,9 @@
 
 - I'm currently pursuing my Bachelor's degree in Information Technology, passionate about developing innovative solutions that merge cutting-edge technology with practical applications.
 
-My journey in tech has led me to explore various domains including web development, artificial intelligence, and cloud computing. I'm particularly interested in AI applications in healthcare, which led to my brain tumor detection project using CNN.
+- My journey in tech has led me to explore various domains including web development, artificial intelligence, and cloud computing. I'm particularly interested in AI applications in healthcare, which led to my brain tumor detection project using CNN.
 
-When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and expanding my knowledge through online courses and certifications.
+- When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and expanding my knowledge through online courses and certifications.
 
 ---
 
