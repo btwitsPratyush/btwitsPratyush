@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img alt="Coding GIF" width="300" src="assets/coding.gif"/>
+</p>
 
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
