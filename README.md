@@ -1,6 +1,3 @@
- <p align="center">
-  <img src="assets/header.png" alt="Header Image"/>
-</p>
 
 
 <p align="center">
