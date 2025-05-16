@@ -20,16 +20,6 @@
 
 ---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=btwitsPratyush&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=btwitsPratyush&theme=react" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btwitsPratyush&layout=compact&theme=react" alt="Top Languages" />
-</p>
-
----
-
 🌐 Let’s Connect 
 
 <p align="center">
