@@ -1,7 +1,4 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=RakibCoding&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>  -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header"/>
-<div align="center">
- 
+
 
 </div>
 
