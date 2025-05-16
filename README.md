@@ -20,16 +20,6 @@
 
 ---
 
-📌 Featured Projects
-
-🧠 **Brain Tumor Detection Web App**  
-Full-stack AI-powered app to detect brain tumors with a sleek, animated interface. Built using CNN + React + Flask.
-
-🌐 **Personal Portfolio**  
-Interactive portfolio to showcase my projects, skills, and goals. Fully responsive and modern.
-
----
-
 📊 GitHub Stats
 
 <p align="center">
