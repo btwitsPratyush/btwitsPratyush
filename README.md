@@ -12,7 +12,7 @@
 
 🚀 About Me
 
-- I'm currently pursuing my Bachelor's degree in Information Technology, passionate about developing innovative solutions that merge cutting-edge technology with practical applications.
+- I'm currently pursuing my Bachelor's in Information Technology, passionate about developing innovative solutions that merge cutting-edge technology with practical applications.
 
 - My journey in tech has led me to explore various domains including web development, artificial intelligence, and cloud computing. I'm particularly interested in AI applications in healthcare, which led to my brain tumor detection project using CNN.
 
