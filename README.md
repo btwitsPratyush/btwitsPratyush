@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
@@ -7,12 +5,12 @@
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%94%8E;UI%2FUX+Designer+%F0%9F%8E%A8;Blog+Writer+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
-  
-</p>
 
 ---
 
- 🚀 About Me
+🚀 About Me
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
 
 - I'm currently pursuing my Bachelor's degree in Information Technology, passionate about developing innovative solutions that merge cutting-edge technology with practical applications.
 
@@ -24,12 +22,10 @@
 
 📌 Featured Projects
 
-🧠 Brain Tumor Detection Web App
-
+🧠 **Brain Tumor Detection Web App**  
 Full-stack AI-powered app to detect brain tumors with a sleek, animated interface. Built using CNN + React + Flask.
 
-🌐 Personal Portfolio
-
+🌐 **Personal Portfolio**  
 Interactive portfolio to showcase my projects, skills, and goals. Fully responsive and modern.
 
 ---
@@ -42,7 +38,7 @@ Interactive portfolio to showcase my projects, skills, and goals. Fully responsi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btwitsPratyush&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
---- 
+---
 
 🌐 Let’s Connect 
 
@@ -69,10 +65,10 @@ Interactive portfolio to showcase my projects, skills, and goals. Fully responsi
 
 ---
 
- 🚀 Blog
+🚀 Blog
 
-I love sharing what I learn through writing. 
-   👉Check out all my articles on [Medium](https://medium.com/@pratyushk537)
+I love sharing what I learn through writing.  
+👉 Check out all my articles on [Medium](https://medium.com/@pratyushk537)
 
 ---
 
@@ -83,7 +79,4 @@ I don’t just debug code. I debug life with ☕, creativity, and passion.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
----
-
 
