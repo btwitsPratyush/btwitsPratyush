@@ -10,7 +10,7 @@
 
 🚀 About Me
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
+![Debugging Life](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 - I'm currently pursuing my Bachelor's degree in Information Technology, passionate about developing innovative solutions that merge cutting-edge technology with practical applications.
 
