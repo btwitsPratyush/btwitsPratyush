@@ -1,4 +1,13 @@
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=RakibCoding&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>  -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header"/>
+<div align="center">
+ 
+![Rakib GitHub stats](https://readme-typing-svg.demolab.com/?font=Arial&weight=900&size=30&pause=2000&color=6B13D6&vCenter=true&random=false&width=435&height=35&lines=Hello!+I+am+Rakib+Hassan+👋)
 
+</div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
+<!-- <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header"> -->
 
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
