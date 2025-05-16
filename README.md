@@ -4,7 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
 <!-- <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header"> -->
-
 <h1 align="center">Hey there! 👋 I'm Pratyush</h1>
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
 
