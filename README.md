@@ -2,8 +2,6 @@
 
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
 
-<img src="./assets/images/batman_logo_with_flame.png" height="90"/>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=8B008B&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%94%8E;Blog+Writer+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
