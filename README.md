@@ -8,7 +8,11 @@
 
 ---
 
-![Hacker setup](https://raw.githubusercontent.com/btwitsPratyush/portfolio-website-main/main/assets/PHOTO-2025-08-01-23-48-52.jpg)
+<p align="center">
+  <img src="https://github.com/btwitsPratyush/btwitsPratyush/blob/main/assets/coding%20(1).gif?raw=true" alt="Hacker setup GIF" width="70%" />
+</p>
+
+---
 
 🚀 About Me
 
