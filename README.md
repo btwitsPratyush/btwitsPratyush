@@ -1,7 +1,10 @@
+<!-- Load Google Font 'Pacifico' -->
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+
 <h1 align="center">
   Hey there! 👋 I'm
   <span style="
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Pacifico', cursive;
     font-size: 2.5em;
     background: linear-gradient(to right, red, white);
     -webkit-background-clip: text;
