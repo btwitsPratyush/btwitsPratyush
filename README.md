@@ -12,7 +12,6 @@
   <img src="https://github.com/btwitsPratyush/btwitsPratyush/blob/main/assets/coding%20(1).gif?raw=true" alt="Hacker setup GIF" width="40%" />
 </p>
 
----
 
 🚀 About Me
 
