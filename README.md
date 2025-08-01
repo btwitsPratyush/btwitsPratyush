@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/btwitsPratyush/btwitsPratyush/blob/main/assets/coding%20(1).gif?raw=true" alt="Hacker setup GIF" width="70%" />
+  <img src="https://github.com/btwitsPratyush/btwitsPratyush/blob/main/assets/coding%20(1).gif?raw=true" alt="Hacker setup GIF" width="40%" />
 </p>
 
 ---
