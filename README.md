@@ -1,6 +1,13 @@
 <h1 align="center">
   Hey there! 👋 I'm
-  <span style="background: linear-gradient(to right, #8B008B, #DA70D6); -webkit-background-clip: text; color: transparent;">
+  <span style="
+    font-family: 'Brush Script MT', cursive;
+    font-size: 2.5em;
+    background: linear-gradient(to right, red, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+  ">
     Pratyush
   </span>
 </h1>
