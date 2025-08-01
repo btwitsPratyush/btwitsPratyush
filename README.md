@@ -8,7 +8,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
+![Hacker setup](https://raw.githubusercontent.com/btwitsPratyush/portfolio-website-main/main/assets/PHOTO-2025-08-01-23-48-52.jpg)
 
 🚀 About Me
 
