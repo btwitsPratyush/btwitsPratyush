@@ -1,10 +1,6 @@
 <h1 align="center">
-  Hey there! 👋 I'm
-  <span style="font-family: cursive; color: #8B008B;">
-    Pratyush
-  </span>
+  Hey there! 👋 I'm <span style="font-family: cursive; color: #8B008B;">Pratyush</span>
 </h1>
-
 <h3 align="center">Full Stack Dev | AI Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
