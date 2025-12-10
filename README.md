@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Gmail-pratyushk537@gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail">
   </a>
   <a href="https://github.com/btwitsPratyush">
-    <img src="https://img.shields.io/badge/GitHub-pratyushk537-333?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-btwitsPratyush-333?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://pratyushport.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox-browser" alt="Portfolio">
