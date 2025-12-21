@@ -26,7 +26,7 @@
 🌐 Let’s Connect 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratyush-kumar-3302b0229/">
+  <a href="https://www.linkedin.com/in/pratyush-linkdin/">
     <img src="https://img.shields.io/badge/LinkedIn-Pratyush%20Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/btwitsPratyush">
