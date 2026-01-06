@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox-browser" alt="Portfolio">
   </a>
   <a href="https://buymeacoffee.com/btwitspratyush" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support%20me-yellow?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me a Coffee">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-JUST%20COFFEE-yellow?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me a Coffee">
   </a>
 </p>
 
