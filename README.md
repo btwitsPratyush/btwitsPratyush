@@ -51,7 +51,7 @@
 🚀 Blog
 
 I love sharing what I learn through writing.  
-👉 Check out all my articles on [Medium](https://medium.com/@pratyushk537)
+👉 Check out all my articles on [Medium](https://medium.com/@btwitsPratyush)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
