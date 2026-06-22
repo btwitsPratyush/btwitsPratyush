@@ -19,7 +19,7 @@
 - Most of my time goes into backend development, AI, and random startup ideas that seem crazy enough to be worth trying.
 - I've built projects ranging from brain tumor detection using CNNs to full-stack web applications and AI-powered tools.
 - Recently I've been spending a lot of time exploring LLMs, agents, RAG systems, and how AI can be used to solve real-world problems.
-- I'm also documenting my startup journey publicly — sharing what I'm building, what works, what fails, and everything I learn along the way.
+- I'm also documenting my startup journey publicly. Sharing what I'm building, what works, what fails, and everything I learn along the way.
 - When I'm not coding, you'll probably find me reading about startups, watching founder interviews, exploring new technologies, or going down some rabbit hole on the internet.
 
 ---
