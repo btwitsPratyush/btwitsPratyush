@@ -4,8 +4,7 @@
 <h3 align="center">Full Stack Dev | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B008B&center=true&vCenter=true&width=600&lines=Backend+Developer+🚀;AI+Builder+🤖;Building+AI+Startups+in+Public+📈;YC+Dreaming+%26+Building+💡" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B008B&center=true&vCenter=true&width=700&lines=Backend+Developer+🚀;AI+Builder+🤖;Building+AI+Startups+in+Public+📈;Turning+Ideas+Into+Products+💡" />
 </p>
 
 <p align="center">
