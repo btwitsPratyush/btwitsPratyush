@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Dev | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=8B008B&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%94%8E;Blog+Writer+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=8B008B&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%94%8E;+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,11 +15,12 @@
 
 🚀 About Me
 
-- I'm currently pursuing my Bachelor's in Information Technology, passionate about developing innovative solutions that merge cutting-edge technology with practical applications.
-
-- My journey in tech has led me to explore various domains including web development, artificial intelligence, and cloud computing. I'm particularly interested in AI applications in healthcare, which led to my brain tumor detection project using CNN.
-
-- When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and expanding my knowledge through online courses and certifications.
+* I’m Pratyush, an Information Technology student, backend developer, and aspiring founder building AI products from scratch.
+* Currently focused on backend systems, AI agents, LLM applications, and startup building. I enjoy turning ideas into working products and sharing the journey publicly.
+* I’ve built projects ranging from AI-powered healthcare applications like NeuroScan AI (Brain Tumor Detection using CNNs) to full-stack products involving React, Node.js, FastAPI, and modern AI workflows.
+* My interests lie at the intersection of AI, software engineering, and entrepreneurship. I’m particularly fascinated by how AI can automate complex workflows and create entirely new categories of products.
+* Right now, I’m documenting my journey of building AI startups, experimenting with ideas, learning from failures, and working toward creating products people genuinely want.
+* Outside of coding, I spend time exploring emerging technologies, studying successful startups, contributing to projects, and continuously improving my engineering skills.
 
 ---
 
@@ -31,9 +32,6 @@
   </a>
   <a href="mailto:pratyushk537@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-pratyushk537@gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail">
-  </a>
-  <a href="https://github.com/btwitsPratyush">
-    <img src="https://img.shields.io/badge/GitHub-btwitsPratyush-333?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://buymeacoffee.com/btwitspratyush" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-JUST%20COFFEE-yellow?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me a Coffee">
