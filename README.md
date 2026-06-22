@@ -15,12 +15,12 @@
 
 🚀 About Me
 
-* I’m Pratyush, an Information Technology student, backend developer, and aspiring founder building AI products from scratch.
-* Currently focused on backend systems, AI agents, LLM applications, and startup building. I enjoy turning ideas into working products and sharing the journey publicly.
-* I’ve built projects ranging from AI-powered healthcare applications like NeuroScan AI (Brain Tumor Detection using CNNs) to full-stack products involving React, Node.js, FastAPI, and modern AI workflows.
-* My interests lie at the intersection of AI, software engineering, and entrepreneurship. I’m particularly fascinated by how AI can automate complex workflows and create entirely new categories of products.
-* Right now, I’m documenting my journey of building AI startups, experimenting with ideas, learning from failures, and working toward creating products people genuinely want.
-* Outside of coding, I spend time exploring emerging technologies, studying successful startups, contributing to projects, and continuously improving my engineering skills.
+- Hey, I'm Pratyush. I like building things, breaking things, and figuring out how they work.
+- Most of my time goes into backend development, AI, and random startup ideas that seem crazy enough to be worth trying.
+- I've built projects ranging from brain tumor detection using CNNs to full-stack web applications and AI-powered tools.
+- Recently I've been spending a lot of time exploring LLMs, agents, RAG systems, and how AI can be used to solve real-world problems.
+- I'm also documenting my startup journey publicly — sharing what I'm building, what works, what fails, and everything I learn along the way.
+- When I'm not coding, you'll probably find me reading about startups, watching founder interviews, exploring new technologies, or going down some rabbit hole on the internet.
 
 ---
 
