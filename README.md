@@ -26,9 +26,6 @@
 🌐 Let’s Connect 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratyush-linkdin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pratyush%20-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
   <a href="https://twitter.com/btwitsPratyush">
     <img src="https://img.shields.io/badge/X-btwitsPratyush-black?style=for-the-badge&logo=twitter" alt="X">
   </a>
@@ -37,9 +34,6 @@
   </a>
   <a href="https://github.com/btwitsPratyush">
     <img src="https://img.shields.io/badge/GitHub-btwitsPratyush-333?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://pratyushport.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox-browser" alt="Portfolio">
   </a>
   <a href="https://buymeacoffee.com/btwitspratyush" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-JUST%20COFFEE-yellow?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me a Coffee">
