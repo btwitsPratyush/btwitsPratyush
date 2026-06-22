@@ -1,7 +1,7 @@
 <h1 align="center">
   hey there! 👋 I'm <span style="font-family: cursive; color: #8B008B;">Pratyush</span>
 </h1>
-<h3 align="center">Full Stack Dev | AI Enthusiast</h3>
+<h3 align="center">Backend Dev</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B008B&center=true&vCenter=true&width=700&lines=Backend+Developer+🚀;AI+Builder+🤖;Building+AI+Startups+in+Public+📈;Turning+Ideas+Into+Products+💡" />
