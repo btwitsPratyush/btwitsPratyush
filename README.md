@@ -14,7 +14,7 @@
 
 🚀 About Me
 
-- Hey, I'm Pratyush. I like building things, breaking things, and figuring out how they work.
+- I'm Pratyush. I like building things, breaking things, and figuring out how they work.
 - Most of my time goes into backend development, AI, and random startup ideas that seem crazy enough to be worth trying.
 - I've built projects ranging from brain tumor detection using CNNs to full-stack web applications and AI-powered tools.
 - Recently I've been spending a lot of time exploring LLMs, agents, RAG systems, and how AI can be used to solve real-world problems.
